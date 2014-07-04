@@ -1,0 +1,14 @@
+Done
+
++ find task by using title index
+
++ edit task title
++ display error if task title is not unique (new or edit)
++ display all, active or completed tasks
+
+
+
+
+
+
+

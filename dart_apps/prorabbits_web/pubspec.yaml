@@ -1,4 +1,0 @@
-name: prorabbits_web
-description: Raising rabbits the web way
-dependencies:
-  browser: any
